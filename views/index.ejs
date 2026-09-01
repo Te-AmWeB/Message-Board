@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Доска сообщений</title>
+    <link rel="stylesheet" href="xxx.css">
+</head>
+<body>
+    <h1> Сообщения</h1>
+
+    <% for (const msg of messages) { %>
+        <div class="message">
+            <span class="sender"><%= msg.user %></span>
+            <span class="text"><%= msg.text %></span>
+            <div class="time"><%= msg.added.toLocaleString() %></div>
+            <a href="/message/<%= msg.id %>" class="open-link">Открыть</a>
+        </div>
+    <% } %>
+
+    <a href="/new" class="button"> Новое сообщение</a>
+
+    <!-- Падающие листья -->
+    <div class="leaf">🍂</div>
+    <div class="leaf">🍁</div>
+    <div class="leaf">🍂</div>
+    <div class="leaf">🍁</div>
+    <div class="leaf">🍂</div>
+    <div class="leaf">🍁</div>
+    <div class="leaf">🍂</div>
+    <div class="leaf">🍁</div>
+    <div class="leaf">🍂</div>
+    <div class="leaf">🍁</div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>Задача
+</head>
+
+<body>
+
+<h1>Задача</h1>
+<p><strog>Текст:</strog> <%= task.text %></p>
+<P><strong>Статус:</strong> <%= task.done ? 'Выполнено✅' : 'Не выполнено❌' %> </P>
+<form method="POST" action="/task/<%= task.id %>/delete" style="display:inline;">
+<button type="submit">Удалить</button>
+</form>
+<br>
+<a href="/">Назад</a>
+</body>
+
+</html>

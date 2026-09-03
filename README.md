@@ -26,10 +26,10 @@ A simple message board application built as a joint project by two brothers — 
 
 ## 👥 Team
 
-| Role | Age |
-|------|-----|
-| Backend | 16 |
-| Frontend & Design | 14 |
+| Role |
+|------|
+| Backend |
+| Frontend & Design |
 
 ---
 

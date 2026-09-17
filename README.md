@@ -33,6 +33,8 @@ A simple message board application built as a joint project by two brothers — 
 
 https://github.com/Te-AmWeB
 
+https://github.com/Stack-zzz
+
 ---
 
 ## 🛠️ Run Locally

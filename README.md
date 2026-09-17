@@ -28,8 +28,8 @@ A simple message board application built as a joint project by two brothers — 
 
 | Role |
 |------|
-| Backend |
-| Frontend & Design |
+| Backend |Team |
+| Frontend & Design |Stack |
 
 ---
 
@@ -50,3 +50,5 @@ message-board/
 ├── app.js
 └── package.json
 open http://localhost:3000
+
+https://github.com/Te-AmWeB/Message-Board/blob/main/Lobby.png

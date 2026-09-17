@@ -52,3 +52,5 @@ message-board/
 open http://localhost:3000
 
 https://github.com/Te-AmWeB/Message-Board/blob/main/Lobby.png
+
+https://github.com/Te-AmWeB/Message-Board/blob/main/New%20message.png

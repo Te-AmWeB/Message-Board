@@ -28,8 +28,10 @@ A simple message board application built as a joint project by two brothers — 
 
 | Role |
 |------|
-| Backend |Team |
-| Frontend & Design |Stack |
+| Backend |
+| Frontend & Design |
+
+https://github.com/Te-AmWeB
 
 ---
 
